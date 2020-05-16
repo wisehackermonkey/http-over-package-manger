@@ -58,7 +58,40 @@ UI
 -     message id
 
 
+# how to use send.py
+```
+python send.py "<message to be sent>"
+EX
+python send.py "Friends applaud, the comedy is finished"
+```
+
+# how to use receive.py
+```
+python receive.py "<message to be sent>"
+```
+
+# how to use main app
+```
+>python cli.py
+
+to quit type exit, quit, or q
+
+type some text then hit "enter"
+
+the app will update a npm package named http-over-packagemaner-v1
+with the text you just typed
+
+upload the updated npm package
+
+once uploaded, update a local version of the package, and display the text
+```
 # todo
 - polling problem
-        what about using npm update?
-- 
+        x what about using npm update?
+- ~~finish semi-automated receive~~
+- ~~automate npm * commands~~
+- x make script use argv
+- two way
+-   make script take dynamic user input
+-  x display last message send from other user
+- add user support

@@ -1,6 +1,6 @@
 {
   "name": "http-over-packagemaner-v1",
-  "version": "1.0.2",
+  "version": "1.0.22",
   "description": " creating http over package manager, a fun experiment",
   "main": "",
   "scripts": {
