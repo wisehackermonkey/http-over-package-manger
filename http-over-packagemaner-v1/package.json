@@ -1,0 +1,24 @@
+{
+  "name": "http-over-packagemaner-v1",
+  "version": "1.0.2",
+  "description": " creating http over package manager, a fun experiment",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisehackermonkey/http-over-package-manger.git"
+  },
+  "keywords": [
+    "experiment",
+    "http",
+    "package-manager"
+  ],
+  "author": "wisehackermonkey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisehackermonkey/http-over-package-manger/issues"
+  },
+  "homepage": "https://github.com/wisehackermonkey/http-over-package-manger#readme"
+}
